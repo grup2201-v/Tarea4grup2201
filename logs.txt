@@ -1,0 +1,3 @@
+[2026-05-07 22:08:01.075628] Cliente registrado Carlos
+[2026-05-07 22:08:01.076361] Servicio registrado Sala VIP
+[2026-05-07 22:08:01.076845] Reserva creada
